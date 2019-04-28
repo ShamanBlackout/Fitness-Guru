@@ -1,0 +1,4 @@
+#Tue Apr 23 10:36:54 CDT 2019
+base.0=D\:\\Programming\\PythonProg\\FitnessGuru\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

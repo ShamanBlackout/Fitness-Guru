@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\3c49a4fa10a8a2394f408658a9edcf8a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1e7100de61191c90bd9e524b04774f4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\15501862376d23b5ab99c51b7ad9d0ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4f90725053d3c5c429174fdc719108c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c616636bd7f77e57c95059b49cad9292\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\29e923ff661a308cd05321312fd17686\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9765917db4d156e6b60883e1de6338b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa85018c95b8faa8b08494d9c78a7eb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\136db31583f23faf583a7e57d368b60a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a05c01a25231ba649a49fac9f19acf9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9da6dbd14374f2ae37dcd9fc7207d0fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4fc709efeefdaacdf30a9b6e3b748c34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3ddbd88f3b89e9726a9a43c343abe368\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d0d44a9446be2bc643fd716d461180d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c3ee629d65a20750413cd5c8db6dd36c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\46a6572bed2ddb0719bff8b299c0a487\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d51dc1d231f7458b853f195d306c36db\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f88b922d7e36cc42f59d2b2c3eb412c0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a4e32de2759a2be32fe69e636d854bbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e74db67159f0c1dc989785437aa216cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2191f3a6d87b10dce316204e5dac3b55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b4593bdfd82e2b3246cbf7e49913b085\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff09f89ee538e86cd25fdaecb065e569\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\86aef1b2a2e44edd95d599bb198a3e6e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8ca9184ef3b3eea50f9f44646e09fbef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8ef45a93f416f0a924c353728d4365bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f09ccd7fd95930d28bb25c95eef642e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a7514027e5cf5a495c70704cb656a409\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\a149f8da822f93d3b458d4f4e9efb2ff\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\70c43f894c89a179bffd66503d432c27\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9df33b2ef04999bd6f972252e1f1f8a7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\618769964ddf92c236bae145c477d2e5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\272363026238c4a31c084c3b96d8e7c1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\3058ab3468e92b7ed79b98f008a19ed0\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\3c49a4fa10a8a2394f408658a9edcf8a\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\3c49a4fa10a8a2394f408658a9edcf8a\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\46a6572bed2ddb0719bff8b299c0a487\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\46a6572bed2ddb0719bff8b299c0a487\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d51dc1d231f7458b853f195d306c36db\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d51dc1d231f7458b853f195d306c36db\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\272363026238c4a31c084c3b96d8e7c1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\272363026238c4a31c084c3b96d8e7c1\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\46a6572bed2ddb0719bff8b299c0a487\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.fitnessguru.MainActivity
+ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\3c49a4fa10a8a2394f408658a9edcf8a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\3c49a4fa10a8a2394f408658a9edcf8a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1e7100de61191c90bd9e524b04774f4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1e7100de61191c90bd9e524b04774f4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\15501862376d23b5ab99c51b7ad9d0ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\15501862376d23b5ab99c51b7ad9d0ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4f90725053d3c5c429174fdc719108c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4f90725053d3c5c429174fdc719108c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c616636bd7f77e57c95059b49cad9292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c616636bd7f77e57c95059b49cad9292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\29e923ff661a308cd05321312fd17686\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\29e923ff661a308cd05321312fd17686\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9765917db4d156e6b60883e1de6338b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9765917db4d156e6b60883e1de6338b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa85018c95b8faa8b08494d9c78a7eb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa85018c95b8faa8b08494d9c78a7eb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\136db31583f23faf583a7e57d368b60a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\136db31583f23faf583a7e57d368b60a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a05c01a25231ba649a49fac9f19acf9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a05c01a25231ba649a49fac9f19acf9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9da6dbd14374f2ae37dcd9fc7207d0fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9da6dbd14374f2ae37dcd9fc7207d0fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4fc709efeefdaacdf30a9b6e3b748c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4fc709efeefdaacdf30a9b6e3b748c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3ddbd88f3b89e9726a9a43c343abe368\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3ddbd88f3b89e9726a9a43c343abe368\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d0d44a9446be2bc643fd716d461180d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d0d44a9446be2bc643fd716d461180d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c3ee629d65a20750413cd5c8db6dd36c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c3ee629d65a20750413cd5c8db6dd36c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\46a6572bed2ddb0719bff8b299c0a487\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\46a6572bed2ddb0719bff8b299c0a487\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d51dc1d231f7458b853f195d306c36db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d51dc1d231f7458b853f195d306c36db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f88b922d7e36cc42f59d2b2c3eb412c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f88b922d7e36cc42f59d2b2c3eb412c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a4e32de2759a2be32fe69e636d854bbd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a4e32de2759a2be32fe69e636d854bbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e74db67159f0c1dc989785437aa216cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e74db67159f0c1dc989785437aa216cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2191f3a6d87b10dce316204e5dac3b55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2191f3a6d87b10dce316204e5dac3b55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b4593bdfd82e2b3246cbf7e49913b085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b4593bdfd82e2b3246cbf7e49913b085\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff09f89ee538e86cd25fdaecb065e569\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff09f89ee538e86cd25fdaecb065e569\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\86aef1b2a2e44edd95d599bb198a3e6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\86aef1b2a2e44edd95d599bb198a3e6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8ca9184ef3b3eea50f9f44646e09fbef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8ca9184ef3b3eea50f9f44646e09fbef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8ef45a93f416f0a924c353728d4365bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8ef45a93f416f0a924c353728d4365bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f09ccd7fd95930d28bb25c95eef642e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f09ccd7fd95930d28bb25c95eef642e7\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a7514027e5cf5a495c70704cb656a409\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a7514027e5cf5a495c70704cb656a409\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\a149f8da822f93d3b458d4f4e9efb2ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\a149f8da822f93d3b458d4f4e9efb2ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\70c43f894c89a179bffd66503d432c27\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\70c43f894c89a179bffd66503d432c27\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9df33b2ef04999bd6f972252e1f1f8a7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9df33b2ef04999bd6f972252e1f1f8a7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\618769964ddf92c236bae145c477d2e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\618769964ddf92c236bae145c477d2e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\272363026238c4a31c084c3b96d8e7c1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\272363026238c4a31c084c3b96d8e7c1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\3058ab3468e92b7ed79b98f008a19ed0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\lilki\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\3058ab3468e92b7ed79b98f008a19ed0\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from D:\Programming\PythonProg\FitnessGuru\android\app\src\debug\AndroidManifest.xml:5:22-75
